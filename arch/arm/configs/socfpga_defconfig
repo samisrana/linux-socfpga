@@ -167,3 +167,11 @@ CONFIG_DETECT_HUNG_TASK=y
 CONFIG_FUNCTION_TRACER=y
 CONFIG_DEBUG_USER=y
 CONFIG_HAVE_ARM_ARCH_TIMER=y
+
+config_mathworks_ip_core=y
+config_mathworks_generic_of=y
+config_mwipcore=y
+config_mwipcore_dma_streaming=y
+config_mwipcore_iio_streaming=y
+config_mwipcore_iio_mm=y
+config_mwipcore_iio_sharedmem=y
