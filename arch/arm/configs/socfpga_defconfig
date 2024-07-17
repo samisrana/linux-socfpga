@@ -168,10 +168,11 @@ CONFIG_FUNCTION_TRACER=y
 CONFIG_DEBUG_USER=y
 CONFIG_HAVE_ARM_ARCH_TIMER=y
 
-config_mathworks_ip_core=y
-config_mathworks_generic_of=y
-config_mwipcore=y
-config_mwipcore_dma_streaming=y
-config_mwipcore_iio_streaming=y
-config_mwipcore_iio_mm=y
+CONFIG_MATHWROKS_IP_CORE=y
+CONFIG_MATHWORKS_GENERIC_OF=y
+CONFIG_MWIPCORE=y
+CONFIG_MWIPCORE_DMA_STREAMING=y
+CONFIG_MWIPCORE_IIO_STREAMING=y
+CONFIG_MWIPCORE_IIO_MM=y
 config_mwipcore_iio_sharedmem=y
+CONFIG_MWIPCORE_IIO_SHAREDMEM=y
